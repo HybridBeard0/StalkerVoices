@@ -1,0 +1,10 @@
+{
+  "name": "StalkerVoices",
+  "author": "JustNU, CWX",
+  "version": "0.4.1",
+  "license": "MIT",
+  "main": "src/mod.js",
+  "akiVersion": ">=3.11.0",
+  "sptVersion": "3.11.*",
+  "isBundleMod": true
+}

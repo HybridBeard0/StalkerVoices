@@ -1,0 +1,69 @@
+{
+	"manifest": [
+		{
+			"key": "StalkerVoices/Audio/stalker_shared_audio.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "StalkerVoices/Audio/monolith_3_sound.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "StalkerVoices/Voices/monolith_3_voice.bundle",
+			"dependencyKeys": [
+				"StalkerVoices/Audio/monolith_3_sound.bundle"
+			]
+		},
+		{
+			"key": "StalkerVoices/Audio/stalker_bandit_1_audio.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "StalkerVoices/Voices/stalker_bandit_1_voice.bundle",
+			"dependencyKeys": [
+				"StalkerVoices/Audio/stalker_bandit_1_audio.bundle",
+				"StalkerVoices/Audio/stalker_shared_audio.bundle"
+			]
+		},
+		{
+			"key": "StalkerVoices/Audio/freedom_1_sound.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "StalkerVoices/Voices/freedom_1_voice.bundle",
+			"dependencyKeys": [
+				"StalkerVoices/Audio/freedom_1_sound.bundle"
+			]
+		},
+		{
+			"key": "StalkerVoices/Audio/stalker_2_sound.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "StalkerVoices/Voices/stalker_2_voice.bundle",
+			"dependencyKeys": [
+				"StalkerVoices/Audio/stalker_2_sound.bundle"
+			]
+		},
+		{
+			"key": "StalkerVoices/Audio/csky_1_sound.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "StalkerVoices/Voices/csky_1_voice.bundle",
+			"dependencyKeys": [
+				"StalkerVoices/Audio/csky_1_sound.bundle"
+			]
+		},
+		{
+			"key": "StalkerVoices/Audio/dolg_1_sound.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "StalkerVoices/Voices/dolg_1_voice.bundle",
+			"dependencyKeys": [
+				"StalkerVoices/Audio/dolg_1_sound.bundle"
+			]
+		}
+	]
+}

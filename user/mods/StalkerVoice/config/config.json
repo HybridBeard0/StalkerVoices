@@ -1,0 +1,70 @@
+{
+	"AddVoicesToBots": {
+		"assault": {
+			"ReplaceDefaultOnes": false,
+			"AddFollowingVoices": [
+				"Stalker_Bandit_1"
+			]
+		},
+		"cursedassault": {
+			"ReplaceDefaultOnes": false,
+			"AddFollowingVoices": [
+				"Stalker_Bandit_1"
+			]
+		},
+		"marksman": {
+			"ReplaceDefaultOnes": false,
+			"AddFollowingVoices": [
+				"Stalker_Bandit_1"
+			]
+		},
+		"bosskojaniy": {
+			"ReplaceDefaultOnes": true,
+			"AddFollowingVoices": [
+				"Freedom_1"
+			]
+		},
+		"followerkojaniy": {
+			"ReplaceDefaultOnes": true,
+			"AddFollowingVoices": [
+				"Stalker_2"
+			]
+		},
+		"followergluharsecurity": {
+			"ReplaceDefaultOnes": true,
+			"AddFollowingVoices": [
+				"ClearSky_1"
+			]
+		},
+		"followergluharassault": {
+			"ReplaceDefaultOnes": true,
+			"AddFollowingVoices": [
+				"ClearSky_1"
+			]
+		},
+		"followergluharscout": {
+			"ReplaceDefaultOnes": true,
+			"AddFollowingVoices": [
+				"ClearSky_1"
+			]
+		},
+		"bear": {
+			"ReplaceDefaultOnes": false,
+			"AddFollowingVoices": [
+				"Duty_1"
+			]
+		},
+		"test": {
+			"ReplaceDefaultOnes": false,
+			"AddFollowingVoices": [
+				"Duty_1"
+			]
+		},
+		"BotName": {
+			"ReplaceDefaultOnes": false,
+			"AddFollowingVoices": [
+				"VoiceId"
+			]
+		}
+	}
+}

@@ -1,0 +1,44 @@
+{
+    "67a1b2c3d4e5f6a7b8c9d0e1": {
+        "locales": {
+            "en": "Stalker Bandit"
+        },
+        "name": "Stalker_Bandit_1",
+        "addVoiceToPlayer": true
+    },
+    "67a1b2c3d4e5f6a7b8c9d0e2": {
+        "locales": {
+            "en": "Freedom"
+        },
+        "name": "Freedom_1",
+        "addVoiceToPlayer": true
+    },
+    "67a1b2c3d4e5f6a7b8c9d0e3": {
+        "locales": {
+            "en": "Clear Sky"
+        },
+        "name": "ClearSky_1",
+        "addVoiceToPlayer": true
+    },
+    "67a1b2c3d4e5f6a7b8c9d0e4": {
+        "locales": {
+            "en": "Stalker"
+        },
+        "name": "Stalker_2",
+        "addVoiceToPlayer": true
+    },
+    "67a1b2c3d4e5f6a7b8c9d0e5": {
+        "locales": {
+            "en": "Duty"
+        },
+        "name": "Duty_1",
+        "addVoiceToPlayer": true
+    },
+    "67a1b2c3d4e5f6a7b8c9d0e6": {
+        "locales": {
+            "en": "Monolith"
+        },
+        "name": "Monolith_3",
+        "addVoiceToPlayer": true
+    }
+}
